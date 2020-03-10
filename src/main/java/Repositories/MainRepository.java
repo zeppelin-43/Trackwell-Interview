@@ -11,6 +11,6 @@ public class MainRepository {
         return null;
     }
 
-    public void saveVesselInfo(VesselInfo vesselInfo) {
+    public void save(VesselInfo vesselInfo) {
     }
 }
